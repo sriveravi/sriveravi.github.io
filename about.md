@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a postdoctoral researcher at The Ohio State University.  My graduate training was in Electrical Engineering.  Now I study cognitive development in the Cognitive Development Lab at OSU.  
 
-### More Information
+### Research Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+I am interested in how people learn categories and concepts, and the mechanisms underlying developmental change.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rivera.162@osu.edu](mailto:rivera.162@osu.edu)
