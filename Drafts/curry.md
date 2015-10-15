@@ -4,10 +4,22 @@ layout: post
 ---
 # Goat Curry
 
-I used to get it from Indian Palace until they shut it down with no explanation. I made the 25 minute treck to find the building locked with the lights off and nothing inside. I felt sad and empty like so many buffet plates.  I just thought Mr. Singh and his little shop would stick around.  I stood there on the sidewalk of that strip mall and thought about the time I came in with a cast on my hand, and Mr. Singh told me to what oils and spices to rub on it. I never tried the spice rub, but I am pretty sure it would have helped (or been really tasty on some chicken). A new place opened up in the same location - a kind of mix between restaurant and clothing store.  I went once and never went back because the goat curry wasn't the same.
+I used to get it from Indian Palace until they shut it down with no explanation. I made the 25 minute treck to find the building locked with the lights off and nothing inside. I felt sad and empty like so many buffet plates.  I just thought Mr. Singh and his little shop would stick around.  I stood there on the sidewalk of that strip mall and thought about the time I came in with a cast on my hand, and Mr. Singh told me what oils and spices to rub on it. I never tried the spice rub, but I am pretty sure it would have helped (or been really tasty on some chicken). A new place opened up in the same location - a kind of mix between restaurant and clothing store.  I went once and never went back. The food was pretty good, but the goat curry wasn't the same.
 
-People don't get what 
-Something about the spices at the old man's curry shop. 
+It didn't take me back to the islands when I was running around in my grandma's backyard with the cats and chickens. I used to play nintendo with my cousins back then.  Straight up 8-bit-A-B really hard games until gramps would tell us to stop and go outside. We would jump on skateboards and fly down the almond covered driveway.  It was really scary because if you hit an almond the board would stop immediately and you would fly off the skateboard onto the concrete. 
+
+Sometimes my grandfather would tell us to go catch dinner. My one cousin was practically an engineer by the age of 10 with the types of traps he was building for those chickens. There were springs and levers everywhere. I don't know if he thought that we really couldn't eat if we didn't catch at least one chicken.  Would gramps do that to us? Even now when I see him, I say "Guelo, donde esta el Machette?!"  He digs it out, and gets a big jug.  I look for a really big stick, and then my grandmother starts telling me where she keeps the special hook for the coconuts. 
+
+I had to have that goat curry after the Palace closed, so I did some recon. If it's the weekend you're in luck. [New India Restaurant](http://www.newindiarestaurant.com/) has goat curry during the Saturday and Sunday lunch buffet, and their goat curry is good. Sometimes they have samosas, and overall are consistent in quality.  This is my ole-reliable go-to splot.  If its a Wednesday or Friday and you feel lucky, give [AAB](http://www.aabindiarestaurants.com/) a call.  The quality at AAB is better than New India, but they don't always have goat curry. Therefore, call ahead and ask. If you call before 11:00AM, the staff may not know. Sometimes they will ask the chef, but I recommend calling after 10:45AM. The chicken tikka and saag paneer are rich without being heavy, and well seasoned without being overpowering.  The goat is well spiced and tender without being  overpowered by heat, and the food always tastes and looks fresh. The price is slightly higher, but justified since you can bike from the University.
+
+So
+
+Something about the magical blend of herbs and spices in goat curry takes me to that magical place and time in the tropics. 
+
+
+ 
+
+
 
 
 
