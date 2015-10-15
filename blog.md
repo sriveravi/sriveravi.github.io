@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Bloggy Stuff
 permalink: /blog/
 ---
 
