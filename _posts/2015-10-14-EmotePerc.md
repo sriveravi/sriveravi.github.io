@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dimensions of Emotion Perception
+title: Emotion Perception
 ---
 
 <img align = "right" src="/PostImages/emotDims.png" width="50%" />
