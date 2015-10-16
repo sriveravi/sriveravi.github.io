@@ -12,11 +12,5 @@ Sometimes gramps would tell us to go catch dinner. My one cousin was practically
 
 I had to have that goat curry after the Palace closed, so I did some recon. If it's the weekend you're in luck. [New India Restaurant](http://www.newindiarestaurant.com/) has goat curry during the Saturday and Sunday lunch buffet, and their goat curry is good. Sometimes they have samosas, and overall are consistent in quality.  This is my ole-reliable go-to splot on the weekend.  If its a Wednesday or Friday and you feel lucky, give [AAB](http://www.aabindiarestaurants.com/) a call.  The quality at AAB is better than New India, but they don't always have goat curry. Therefore, call ahead and ask. If you call before 11:00AM, the staff may not know. Sometimes they will ask the chef, but I recommend calling after 10:45AM. The chicken tikka and saag paneer are rich without being heavy, and well seasoned without being overpowering.  The goat seasoning is complex and balanced with a bouquet of fresh herbs and a thick long-simmered sauce. The meat itself is tender, and the food always tastes and looks fresh. The price is slightly higher, but justified since you can bike from the University.
 
-People ask me why I'm all about my goat curry. Well, there's something about the magical blend of herbs and spices in goat curry that takes me to that wonderful place and time in the tropics. It's not about some tasty meat for tasty meat-snack sake. Goat curry is a thing to be respected and appreciated. Mr. Singh was captain of the teleport train to grandma's house, and with a bite of that goat curry and I could see her smiling face and hear her really-fast spanish. And my uncle's there telling me about how he nun-chucked a kid for talking smack about my aunt when they were kids, and he probably watched too many Bruce Lee movies.  
-
-
-and all it took was a bite of that curry.  Well **Choo Choo** Mr. Singh. 
-
-
-
+People ask me why I'm all about my goat curry. Well, there's something about the magical blend of herbs and spices in goat curry that takes me to that wonderful place and time in the tropics. It's not about some tasty meat for tasty meat-snack sake. Goat curry is a thing to be respected and appreciated. Mr. Singh was captain of the teleport train to grandma's house, and with a bite of that goat curry and I could see her smiling face and hear her really-fast spanish. And I wasn't in his shop anymore in that strip mall.  
 
