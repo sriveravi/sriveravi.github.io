@@ -3,7 +3,8 @@ layout: page
 title: Links
 permalink: /links/
 ---
-[Cognitive Development Lab](http://cogdev.cog.ohio-state.edu){:target="_blank"}
+[Cognitive Development Lab](http://cogdev.cog.ohio-state.edu){:target="_blank"}  
+[Python](/python)
 
 ## Collaborators
 [Computational Biology and Cognitive Science Lab](http://cbcsl.ece.ohio-state.edu){:target="_blank"}  
