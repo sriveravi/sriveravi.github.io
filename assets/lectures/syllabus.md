@@ -8,8 +8,8 @@
 ### Lecture 2
 * data types
 * functions/methods
+* strings
 
 ### Lecture 3
-* strings
-* text i/o
+* file i/o
 
