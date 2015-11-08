@@ -3,7 +3,9 @@ layout: default
 title: About
 ---
 
-I am Samuel Rivera, a postdoctoral researcher at The Ohio State University.  My graduate training was in Electrical Engineering.  Now I study cognitive development in the Cognitive Development Lab.  Reach me at [rivera.162@osu.edu](mailto:rivera.162@osu.edu).  Download my <a href="/assets/riveraCV.pdf" target="_blank">CV</a>.
+I am Samuel Rivera, a postdoctoral researcher at The Ohio State University.  My graduate training was in Electrical Engineering.  Now I study cognitive development in the Cognitive Development Lab.  Reach me at [rivera.162@osu.edu](mailto:rivera.162@osu.edu).  
+
+### Download my <a href="/assets/riveraCV.pdf" target="_blank">CV</a>.
 
 ### Research Interests
 
