@@ -8,7 +8,8 @@ permalink: /python/
 Download <a href="/assets/lectures/syllabus.pdf" target="_blank">Syllabus</a>
 
 ## Lectures
-<a href="/assets/lectures/lecture1.pdf" target="_blank">Lecture 1</a>
+<a href="/assets/lectures/lecture1.pdf" target="_blank">Lecture 1</a>   
+<a href="/assets/lectures/lecture2.pdf" target="_blank">Lecture 2</a>  
 
 ## Homework
 <a href="/assets/lectures/HW1.pdf" target="_blank">HW 1</a>
