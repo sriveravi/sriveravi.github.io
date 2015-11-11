@@ -12,4 +12,5 @@ Download <a href="/assets/lectures/syllabus.pdf" target="_blank">Syllabus</a>
 <a href="/assets/lectures/lecture2.pdf" target="_blank">Lecture 2</a>  
 
 ## Homework
-<a href="/assets/lectures/HW1.pdf" target="_blank">HW 1</a>
+<a href="/assets/lectures/HW1.pdf" target="_blank">HW 1</a>  
+<a href="/assets/lectures/HW2.pdf" target="_blank">HW 2</a>
