@@ -3,7 +3,11 @@ layout: page
 title: Python short course
 permalink: /python/
 ---
-##Lecture at 4 pm Tuesday, Nov 10.
+
+##Lecture at 11 am Tuesday, Nov 17.  
+
+##Lecture at 4 pm Tuesday, Nov 24.
+
 
 Download <a href="/assets/lectures/syllabus.pdf" target="_blank">Syllabus</a>
 
