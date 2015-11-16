@@ -10,7 +10,8 @@ permalink: /links/
 ## Collaborators
 [Computational Biology and Cognitive Science Lab](http://cbcsl.ece.ohio-state.edu){:target="_blank"}  
 [MAD Lab](https://u.osu.edu/madlab/){:target="_blank"}  
-[Oxford BabyLab](http://www.psy.ox.ac.uk/research/oxford-babylab){:target="_blank"}
+[Oxford BabyLab](http://www.psy.ox.ac.uk/research/oxford-babylab){:target="_blank"}  
+[Bernhardt-Walther Lab](http://bwlab.chass.utoronto.ca){:target="_blank"}  
 
 ## Useful Tools
 [Online LaTeX Editor ShareLaTeX](https://www.sharelatex.com?r=2cbd059a&rm=d&rs=b){:target="_blank"}  
