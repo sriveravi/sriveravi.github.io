@@ -14,6 +14,7 @@ permalink: /links/
 [Bernhardt-Walther Lab](http://bwlab.chass.utoronto.ca){:target="_blank"}  
 
 ## Useful Tools
+[Gaze Variable Selection Toolbox (created by me) - Analyze gaze with Machine Learning techniques](https://sriveravi.github.io/GVSToolbox){:target="_blank"}  
 [Online LaTeX Editor ShareLaTeX](https://www.sharelatex.com?r=2cbd059a&rm=d&rs=b){:target="_blank"}  
 [Homebrew - OSX missing package manager](http://brew.sh){:target="_blank"}  
 [Anaconda - Get Python working on Windows](https://www.continuum.io/downloads){:target="_blank"}  
