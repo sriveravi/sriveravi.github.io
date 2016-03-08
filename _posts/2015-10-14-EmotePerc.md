@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Emotion Perception
+comments: true
 ---
 
 <img align = "right" src="/PostImages/emotDims.png" width="50%" />
