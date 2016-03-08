@@ -5,7 +5,6 @@ permalink: /links/
 ---
 [Cognitive Development Lab](http://cogdev.cog.ohio-state.edu){:target="_blank"}  
 [Python Short Course](/python)  
-[Blog](/blog)
 
 ## Collaborators
 [Computational Biology and Cognitive Science Lab](http://cbcsl.ece.ohio-state.edu){:target="_blank"}  
