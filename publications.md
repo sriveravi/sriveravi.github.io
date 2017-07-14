@@ -5,6 +5,8 @@ title:  Publications
 
 ### Journal Papers
 
+- Dunifon, C.M., Rivera, S., & Robinson C.W. (2016). Auditory stimuli automatically grab attention: Evidence from eye tracking and attentional manipulations. _Journal of Experimental Psychology Human Perception & Performance_, 42 (12), 1947-1958.
+
 - Benitez-Quiroz, C.F., Rivera, S., Gotardo, P., & Martinez, A. (2014). Salient and Non-Salient Fiducial Detection using a Probabilistic Graphical Model. _Pattern Recognition_, 47 (1), 208-215.
 
 - Samuel Rivera and Aleix M. Martinez (2012).  Learning Deformable Shape Manifolds. _Pattern Recognition_, 45 (4), 1792-1801.
