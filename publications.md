@@ -15,6 +15,13 @@ title:  Publications
 - Samuel Rivera and Aleix M. Martinez (2012).  Learning Deformable Shape Manifolds. _Pattern Recognition_, 45 (4), 1792-1801.
 
 ### Conference Papers and Chapters
+
+- Samuel Rivera, Joel Klipfel, and Deborah Weeks (2020). "Flexible deep transfer learning by separate feature embeddings and manifold alignment", _Proc. SPIE 11394, Automatic Target Recognition XXX_, 113940O (24 April 2020); https://doi.org/10.1117/12.2557063
+
+
+- Samuel Rivera, Olga Mendoza-Schrock, and Ashley Diehl (2019). "Transfer learning for aided target recognition: comparing deep learning to other machine learning approaches", _Proc. SPIE 10988, Automatic Target Recognition XXIX_, 109880T (14 May 2019); https://doi.org/10.1117/12.2514753
+
+
 - Rivera, S. & Sloutsky, V. (2016).  Salience versus prior knowledge - how do children learn rules?. _Proceedings of the 38th Annual Conference of the Cognitive Science Society_.
 
 - Rivera, S. & Robinson, C.W. (2016).  Learning in the wild - how labels influence what we learn. _Proceedings of the 38th Annual Conference of the Cognitive Science Society_.
