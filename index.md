@@ -3,9 +3,25 @@ layout: default
 title: About
 ---
 
-I am Samuel Rivera, a research engineer and scientist. My graduate training was in machine learning and pattern recognition. My postdoctoral training was in cognitive development. Through developmental studies and computational modeling, I worked to uncover the mechanisms underlying our ability to learn and use concepts and categories. Now I focus on machine learning and algorithm development.  
+<!-- ### Summary -->
+
+Hello, I'm Samuel. I enjoy leveling up while working on challenging problems with smart people. My language of choice is Python. I also enjoy mentoring and collaborating on projects outside my expertise.
+
+
+### Education 
+
+- PhD in machine learning and pattern recognition
+- Postdoctoral training in cognitive development
+
+
+### Hobbies
+
+- Cycling
+- Snowboarding
+- Gaming
+- Code
+
 
 #### Download my <a href="/assets/riveraCV.pdf" target="_blank">CV</a>. 
-#### See my [publications](publications). 
 <!-- <br> Check old [projects](projects). -->
 
