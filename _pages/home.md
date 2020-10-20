@@ -9,23 +9,23 @@ header:
 #     - label: "<i class='fas fa-download'></i> Install now"
 #       url: "/docs/quick-start-guide/"
 excerpt: >
-  A guy who builds algorithms.
+  I build algorithms.
 feature_row:
   - image_path: /assets/images/juggle_gray.jpeg
     alt: "Beachside Juggling"
-    title: "Island Origins"
-    # excerpt: "Grew up on the islands."
+    title: "Islander"
+    excerpt: "I moved to the mainland for college. That's where I studied engineering."
     # url: "/docs/configuration/"
     # btn_class: "btn--primary"
     # btn_label: "Learn more"
   - image_path: /assets/images/kang.jpeg
     alt: "Australia"
-    title: "World Traveler"
-    # excerpt: "Grew up on the islands." 
+    title: "Traveler"
+    excerpt: "I visit new places as much as possible. Life moves way too fast to do it later." 
   - image_path: /assets/images/salsero.jpeg
     alt: "Salsa Dancing"
     title: "Salsero"
-    # excerpt: "Grew up on the islands."   
+    excerpt: "I competed at the bronze level years ago, but now I just dance at weddings."   
 ---
 
 {% include feature_row %}
