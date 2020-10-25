@@ -21,9 +21,6 @@ I specialized in pattern recognition and statistical learning. I did quite a bit
 - **Postdoctoral Researcher in Cognitive Science**  
 I did a few years in a cognitive development lab. That's where I started mentoring undergrads and teaching them how to use python and git. I also did a bunch of eye-tracking, EEG, and behavioral studies with students, children, and infants. We tried to understand the mechanisms underlying concept and category learning over development.
 
-## Skills
-
-
 ## Hobbies
 
 Cycling when warm; Snowboarding when cold; Videogames with my dog; Toy projects now and then.
