@@ -1,8 +1,11 @@
 ---
 permalink: /about/
 title: "About"
-layout: archive
+layout: single #archive
 author_profile: true
+toc: true
+toc_label: "Navigate"
+toc_icon: "bicycle"
 ---
 
 ## Education
