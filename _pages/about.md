@@ -30,11 +30,7 @@ I did a few years in a cognitive development lab. That's where I started mentori
 
 ## Talents
 
-- juggling
-- rubik's cube
-- dancing
-- grilling
-- swimming
+juggling, rubik's cube, dancing, grilling, swimming
 
 ## Hobbies
 
