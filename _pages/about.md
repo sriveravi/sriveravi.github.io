@@ -10,27 +10,17 @@ toc_icon: "bicycle"
 
 ## Education
 
-- **PhD in Electrical Engineering**  
-I specialized in pattern recognition and statistical learning. I did quite a bit of work deriving and implementing algorithms for detailed deformable shape detection and object recognition. I also collaborated with cognitive scientists and started learning about category learning. I developed <a href="https://github.com/sriveravi/GVSToolbox">tools</a> that apply pattern recognition methods to gaze data.  
+I did my PhD in Electrical Engineering with a focus on pattern recognition and statistical learning. My main research involved computer vision algorithms for shape and object detection. I also collaborated with cognitive scientists to understand emotion perception from faces and develop models of concept learning 
+over development. I developed <a href="https://github.com/sriveravi/GVSToolbox">tools</a> for applying pattern recognition methods to gaze data. I ended up doing a postoc with those collaborators to dig deeper into those models. It was a very fun and productive time. That's where I got experience designing and executing my own neuroimaging (EEG) and eye-tracking experiments.
 
 
-## Experience
+## Professional Life
 
-- **Research Engineer**  
-    - I read the papers, derive the algorithms, and write the code.  
-    - I run the experiments, make the reports, and write the papers.  
-    - Now and then I mentor an intern or lead a research project.  
+As a research engineer, I have been involved in all stages of research from grant writing to deriving novel solutions and collaborating with other engineers to deliver code or publications. I have been doing more mentoring recently, which I enjoy quite a bit. 
 
-- **Postdoctoral Researcher in Cognitive Science**  
-I did a few years in a cognitive development lab. That's where I started mentoring undergrads and teaching them how to use python and git. I also did a bunch of eye-tracking, EEG, and behavioral studies with students, children, and infants. We tried to understand the mechanisms underlying concept and category learning over development.
+## Passion and Philosophy
 
-## Skills
-
-- Python, Pytorch, R, data wranging, data science, machine learning, pattern recognition
-
-## Talents
-
-juggling, rubik's cube, dancing, grilling, swimming
+It's important to keep a growth mindset and to strive for steady incremental improvement. I try to get a little better with every project and take challenges as an opportunity to grow. It's kind of amazing that I get to write code and work with very smart people for a living. It's exactly what I want to be doing. 
 
 ## Hobbies
 
