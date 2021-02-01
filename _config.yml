@@ -17,7 +17,7 @@ title: Samuel Rivera
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Dr. Samuel Rivera.
-twitter_username: # username
+twitter_username: thatVIstunna # username
 github_username: sriveravi
 minimal_mistakes_skin: default
 search: false # true
@@ -75,7 +75,7 @@ author:
     #   url: "https://www.samuelrivera.info"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sriveravi"
+      url: "https://twitter.com/thatVIstunna"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sriveravi"
@@ -90,7 +90,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sriveravi"
+      url: "https://twitter.com/thatVIstunna"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sriveravi"
