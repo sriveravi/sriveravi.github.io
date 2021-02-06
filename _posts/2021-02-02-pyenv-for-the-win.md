@@ -10,15 +10,15 @@ tags:
 
 We have all been there. You get your shiny new Mac or access to a new server and need to set up your python environment. Mostly you just want it all to work so you never have to touch it, but this time you decide to get fancy with it and start using virtual environments for stuff. That, or you need to because you need to use some open source stuff that happens to need a python version that is newer than the one you foolishly installed with brew. This time, you tell yourself, you will make nice little project specific environments and everything is going to work great. Fortunately, there are plenty of good options for installing python nowadays. Unfortunately, that means that there are many ways things can go wrong. I mainly develop in a Mac/Linux environment and have tried many python management systems over the years. Here's what I have faced during my dark brew and system python days.
 
-## Pathing hell. 
+## Pathing confusion
 
 Sometimes for whatever reason, your path gets screwed up and you try to run python but it just doesn't do what you want it to. Am I using system python or conda? brew? If I uninstall it, will something break?
 
-## Command line nonsense.
+## Command line nonsense
 
 If you're searching on stack overflow, then you've made wrong turn. I'm looking at you, brew. You shouldn't have to be making symlinks to libraries for things to work.
 
-## Updating breaks everything
+## Everything is broken
 
 I have definitely fallen into this trap where I needed to update something, and then it broke my entire python install. 
 
