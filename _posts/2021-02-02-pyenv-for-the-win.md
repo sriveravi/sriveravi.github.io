@@ -26,7 +26,7 @@ I have definitely fallen into this trap where I needed to update something, and 
 
 Be kind to yourself, my friend! Now I avoid conda and brew at all costs and just stick to pyenv. It gives me the control and flexibility I need to install whatever I need with the freedom to blast it away as if it was never there (it shouldn't break other libraries on my system). 
 
-Pyenv use a kind of meta-layer python manager, similar to conda, but it lets you switch to using any python version (including a conda distro if you want) or even system python. You can easily keep your system python the default while having certain virtualenvs be automatically active in certain project directories. It all installs to your user directory so you can blast it and you can install any libraries without sudo. 
+Pyenv is a kind of meta-layer python manager, similar to conda, but with additional control to switch to using any python version or even system python. You can easily keep your system python (or your favorite one without remembering to type the 3) the default while having certain virtualenvs be automatically active in certain project directories. It all installs to your user directory so you can blast it and you can install any libraries without sudo. 
 
 **BONUS:** You can activate conda as the python environment/version of choice if you need some pesky package that happens to install better for your system with conda. It doesn't happen often, but I like having the option of activating anaconda as the base python for my virtual environment. Conda does a great job of pulling in necessary cuda dependencies for pytorch libraries, for example, without requiring a system admin to set it cuda and other related libraries.
 
