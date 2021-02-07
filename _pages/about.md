@@ -26,6 +26,10 @@ It's important to keep a growth mindset and to strive for steady incremental imp
 
 Cycling when warm; Snowboarding when cold; Videogames with my dog; Toy projects now and then.
 
+## Speaking
+
+- Latinos in STEM panelist, September 21, 2020
+
 
 ## Contact
 
