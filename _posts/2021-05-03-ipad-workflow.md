@@ -6,7 +6,7 @@ tags:
    - paperless
    - tech
    - iPad
-—--
+---
 
 I have a 14 year old macbook pro that barely works. I ended up getting an iPad pro to supplement my technical work (see “going paperless”), but it’s really not designed for technical work. There are some good native tools for basic python and web development if that is your thing, but support is limited for doing things like jumping on the command line and compiling bleeding edge libraries. Typically if you want to do something like that, you need to ssh into an external server or google colab or some other cloud server. If you don’t mind doing that kind of thing, then you can actually get pretty far. I’m a big fan of overleaf, for example, for collaborating on latex documents. That kind of cloud-based writing is amazing on a tablet.
 
