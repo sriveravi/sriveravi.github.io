@@ -18,6 +18,8 @@ author_profile: true
 
 ### Conference Papers and Chapters
 
+- Deborah Weeks and Samuel Rivera (2021). "Domain Adaptation by Topology Regularization", _Proc. SPIE 11729, Automatic Target Recognition XXXI_, 117290C (21 April 2021); https://doi.org/10.1117/12.2585705
+
 - Samuel Rivera, Joel Klipfel, and Deborah Weeks (2020). "Flexible deep transfer learning by separate feature embeddings and manifold alignment", _Proc. SPIE 11394, Automatic Target Recognition XXX_, 113940O (24 April 2020); https://doi.org/10.1117/12.2557063
 
 
