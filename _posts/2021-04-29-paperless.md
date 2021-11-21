@@ -1,17 +1,13 @@
 ---
 title: "Going Paperless"
-categories:
-   - blog
+layout: post
+post-image: images/assets/startup-gf9cc2c32b_640.jpg
+description: Save a tree.
 tags:
    - paperless
    - tech
 ---
-<!-- title: "Productivity Tips and Book Reviews"
-layout: post
-post-image: images/assets/startup-g7e79bc597_640.jpg
-description: Get more done.
-tags:
-    - productivity -->
+
 
 Millennials don’t have printers. We just don’t.
 

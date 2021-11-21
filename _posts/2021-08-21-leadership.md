@@ -1,17 +1,14 @@
 ---
 title: "Leadership Lessons"
-categories:
-   - blog
+layout: post
+post-image: images/assets/teamwork-g0b40517cd_640.jpg
+description: Be a better leader.
 tags:
    - life
+   - productivity
 ---
-<!-- title: "Productivity Tips and Book Reviews"
-layout: post
-post-image: images/assets/startup-g7e79bc597_640.jpg
-description: Get more done.
-tags:
-    - productivity -->
-    
+
+
 # Thoughts from leadership
 Leading his hard. I have had successes and failures throughout my personal and professional life. In my career I have overseen projects with a handful of other engineers at the same stage of their careers, or more junior. I have run various local engineering organizations with members of all ages and background, and have overseen social organizations in college. In this article, I’ll summarize the main things to keep in mind and strive for (How to lead) as well as points of friction and things to be careful about.
 
