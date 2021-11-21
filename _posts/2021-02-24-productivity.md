@@ -1,7 +1,8 @@
 ---
 title: "Productivity Tips and Book Reviews"
-categories:
-    - blog
+layout: post
+post-image: images/assets/startup-g7e79bc597_640.jpg
+description: Get more done.
 tags:
     - productivity
 
