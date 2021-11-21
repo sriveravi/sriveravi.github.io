@@ -6,7 +6,12 @@ tags:
    - paperless
    - tech
 ---
-
+<!-- title: "Productivity Tips and Book Reviews"
+layout: post
+post-image: images/assets/startup-g7e79bc597_640.jpg
+description: Get more done.
+tags:
+    - productivity -->
 
 Millennials don’t have printers. We just don’t.
 

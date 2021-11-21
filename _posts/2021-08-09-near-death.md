@@ -6,6 +6,14 @@ tags:
    - life
 ---
 
+<!-- title: "Productivity Tips and Book Reviews"
+layout: post
+post-image: images/assets/startup-g7e79bc597_640.jpg
+description: Get more done.
+tags:
+    - productivity -->
+
+
 I started reading the book, “Show your work”, and it talks about reading obituaries in the morning to get some perspective on life. People worry way too much about the little things that really don’t matter. The idea is that reflecting on how other people lived and died may put things into perspective. Another way to get that perspective is to go through your own traumatic or near-death experience.
 
 I was at a conference and this one girl pointed out how she was held up at gunpoint once and gained a new outlook on life. After being held up at gunpoint, am I really worried about what my Mom said to me that one time? I’m part of that club of people who almost died. Well, maybe I didn’t almost die. But I was gradually becoming paralyzed and I did have to learn how to walk again so I’ll count it. It’s in the general ballpark of “traumatic experiences that change the way you perceive every day from that day on so that every day is a gift and the small stuff doesn’t matter”.
