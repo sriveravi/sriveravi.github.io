@@ -1,11 +1,28 @@
 - name: Deep Domain Adaptation
   image: assets/images/neural-network-gb9008ede9_640.png
-  # link: https://arxiv.org/abs/2101.12102
-  description: I have developed deep learning algorithms for domain adaptation.
+  link: https://arxiv.org/abs/2012.12302
+  description: Some deep learning techniques I developed for flexible domain adaptation.
+
+- name: Emotion Perception from Faces
+  image: assets/images/smiley-ga432ef17c_640.jpg
+  link: assets/papers/Rivera2012Dissertation.pdf
+  description: My dissertation developed computational models for detection and perception.
+
+- name: Concept and Category Learning
+  image: assets/images/artificial-intelligence-gd52b7c697_640.jpg
+  link: https://cogsci.mindmodeling.org/2016/papers/0223/paper0223.pdf
+  description: In my PostDoc I studied how categories and language develop from infancy.
+
+- name: Stock Forecasting
+  image: assets/images/business-gc17221e22_640.png
+  link: https://github.com/sriveravi/stonks
+  description: Fun side project applying data science/ML to stock forecasting and recommending.
 
 
-  # emotion perception
-
+- name: Bayesian Graphical Models
+  image: assets/images/social-media-g267a2e19e_640.png
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3810992/
+  description: PhD work using graph methods for detailed shape detection.
 
 
 # - name: Second Project

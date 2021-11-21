@@ -37,7 +37,7 @@ layout: page
 - [[PDF]](https://arxiv.org/abs/2011.12762){:target="_blank"} Samuel Rivera, Olga Mendoza-Schrock, and Ashley Diehl (2019). "Transfer learning for aided target recognition: comparing deep learning to other machine learning approaches", _Proc. SPIE 10988, Automatic Target Recognition XXIX_, 109880T (14 May 2019); https://doi.org/10.1117/12.2514753
 
 
-- Rivera, S. & Sloutsky, V. (2016).  Salience versus prior knowledge - how do children learn rules?. _Proceedings of the 38th Annual Conference of the Cognitive Science Society_.
+- [[PDF]](https://cogsci.mindmodeling.org/2016/papers/0223/paper0223.pdf){:target="_blank"} Rivera, S. & Sloutsky, V. (2016).  Salience versus prior knowledge - how do children learn rules?. _Proceedings of the 38th Annual Conference of the Cognitive Science Society_.
 
 - Rivera, S. & Robinson, C.W. (2016).  Learning in the wild - how labels influence what we learn. _Proceedings of the 38th Annual Conference of the Cognitive Science Society_.
 
