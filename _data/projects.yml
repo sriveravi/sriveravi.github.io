@@ -26,7 +26,7 @@
 
 
 - name: Machine Learning for Gaze Analysis
-  image: assets/images/man-g91870dd9d_640.jpg
+  image: assets/images/man-geb0b586f5_640.jpg
   link: https://arxiv.org/abs/2010.15047
   description: Open-source toolbox for modeling eye-tracking data.
 
