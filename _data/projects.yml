@@ -25,6 +25,11 @@
   description: PhD work using graph methods for detailed shape detection.
 
 
+- name: Machine Learning for Gaze Analysis
+  image: assets/images/man-g91870dd9d_640.jpg
+  link: https://arxiv.org/abs/2010.15047
+  description: Open-source toolbox for modeling eye-tracking data.
+
 # - name: Second Project
 #   link:
 #   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
