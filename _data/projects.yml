@@ -1,7 +1,12 @@
-- name: First Project
-  image: assets/images/salsero.jpeg
-  link:
-  description: I did the so and so for the so and so.
+- name: Deep Domain Adaptation
+  image: assets/images/neural-network-gb9008ede9_640.png
+  # link: https://arxiv.org/abs/2101.12102
+  description: I have developed deep learning algorithms for domain adaptation.
+
+
+  # emotion perception
+
+
 
 # - name: Second Project
 #   link:
