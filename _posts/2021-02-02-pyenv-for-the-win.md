@@ -1,19 +1,15 @@
 ---
 title: "Pyenv is all you need"
 date: 2021-02-02T15:34:30-04:00
-categories:
-  - blog
+layout: post
+post-image: images/assets/desk-g9f3ed8c75_640.jpg
+description: Stop with the shenanigans.
 tags:
   - python
   - tech
 ---
-<!-- title: "Productivity Tips and Book Reviews"
-layout: post
-post-image: images/assets/startup-g7e79bc597_640.jpg
-description: Get more done.
-tags:
-    - productivity -->
-    
+
+
 We have all been there. You get your shiny new Mac or access to a new server and need to set up your python environment. Mostly you just want it all to work so you never have to touch it, but this time you decide to get fancy with it and start using virtual environments for stuff. That, or you need to because you need to use some open source stuff that happens to need a python version that is newer than the one you foolishly installed with brew. This time, you tell yourself, you will make nice little project specific environments and everything is going to work great. Fortunately, there are plenty of good options for installing python nowadays. Unfortunately, that means that there are many ways things can go wrong. I mainly develop in a Mac/Linux environment and have tried many python management systems over the years. Here's what I have faced during my dark brew and system python days.
 
 ## Pathing confusion

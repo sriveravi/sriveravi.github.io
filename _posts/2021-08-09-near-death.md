@@ -1,17 +1,11 @@
 ---
 title: "Near Death Experience"
-categories:
-   - blog
+layout: post
+post-image: images/assets/rock-climbing-g703b5a637_640.jpg
+description: Live it up.
 tags:
    - life
 ---
-
-<!-- title: "Productivity Tips and Book Reviews"
-layout: post
-post-image: images/assets/startup-g7e79bc597_640.jpg
-description: Get more done.
-tags:
-    - productivity -->
 
 
 I started reading the book, “Show your work”, and it talks about reading obituaries in the morning to get some perspective on life. People worry way too much about the little things that really don’t matter. The idea is that reflecting on how other people lived and died may put things into perspective. Another way to get that perspective is to go through your own traumatic or near-death experience.
