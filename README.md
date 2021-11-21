@@ -1,4 +1,14 @@
 # WhatATheme
+
+## Issues
+For ruby 3.0.0, a bit of deprecated issues. 
+"`require': cannot load such file -- webrick (LoadError)"
+
+Simple fix, just run:
+~~~bash
+bundle add webrick
+~~~
+
 **WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio.
 
 #### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
