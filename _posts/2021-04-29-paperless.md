@@ -1,7 +1,7 @@
 ---
 title: "Going Paperless"
 layout: post
-post-image: images/assets/startup-gf9cc2c32b_640.jpg
+post-image: /assets/images/startup-gf9cc2c32b_640.jpg
 description: Save a tree.
 tags:
    - paperless

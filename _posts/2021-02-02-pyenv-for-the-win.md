@@ -2,7 +2,7 @@
 title: "Pyenv is all you need"
 date: 2021-02-02T15:34:30-04:00
 layout: post
-post-image: images/assets/desk-g9f3ed8c75_640.jpg
+post-image: /assets/images/desk-g9f3ed8c75_640.jpg
 description: Stop with the shenanigans.
 tags:
   - python

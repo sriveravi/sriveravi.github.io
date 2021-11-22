@@ -1,7 +1,7 @@
 ---
 title: "Near Death Experience"
 layout: post
-post-image: images/assets/rock-climbing-g703b5a637_640.jpg
+post-image: /assets/images/rock-climbing-g703b5a637_640.jpg
 description: Live it up.
 tags:
    - life

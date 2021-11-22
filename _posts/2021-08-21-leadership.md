@@ -1,7 +1,7 @@
 ---
 title: "Leadership Lessons"
 layout: post
-post-image: images/assets/teamwork-g0b40517cd_640.jpg
+post-image: /assets/images/teamwork-g0b40517cd_640.jpg
 description: Be a better leader.
 tags:
    - life

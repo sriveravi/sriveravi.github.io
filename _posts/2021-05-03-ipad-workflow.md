@@ -1,7 +1,7 @@
 ---
 title: "iPad Workflow"
 layout: post
-post-image: images/assets/man-g943b404e3_640.jpg
+post-image: /assets/images/man-g943b404e3_640.jpg
 description: Get the most out of just an iPad.
 tags:
    - paperless
