@@ -12,6 +12,7 @@ tags:
 
 
 # Twitter NLP and analysis
+Go straight to the [code](https://github.com/sriveravi/tweet-nlp-interpreter).
 
 ## Problem
 
@@ -81,3 +82,5 @@ This was meant is a POC and there are several important limitations including th
 3. Data cleanup and feature engineering: I,'m neglecting lots of valuable metadata like tweet length, frequency, user interactions and time, to name a few.
 
 Thanks for making it this far! We went over quite a bit about building bots for pulling data, leveraging pre-trained NLP models, and finally interpreting the model results. While the technologies involved were quite sophisticated, execution was relatively simple because of the great tools and libraries that were developed by outstanding researchers, ML practitioners, and software engineers. My thanks to those doing great work for the open source community.
+
+Check out the source [code](https://github.com/sriveravi/tweet-nlp-interpreter).
