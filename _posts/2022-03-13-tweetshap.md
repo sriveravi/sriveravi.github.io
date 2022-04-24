@@ -1,7 +1,7 @@
 ---
 title: "Tweet analysis with twitter bots, NLP and game theory"
 layout: post
-post-image: /assets/images/twitter-640.png
+post-image: /assets/images/bird-fluttering.jpg
 description: Explanatory twitter text analysis
 tags:
    - machine learning
